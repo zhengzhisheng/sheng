@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sheng.iml" filepath="$PROJECT_DIR$/sheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sheng-common/sheng-common.iml" filepath="$PROJECT_DIR$/sheng-common/sheng-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sheng-upms/sheng-upms.iml" filepath="$PROJECT_DIR$/sheng-upms/sheng-upms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sheng-upms/sheng-upms-client/sheng-upms-client.iml" filepath="$PROJECT_DIR$/sheng-upms/sheng-upms-client/sheng-upms-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sheng-upms/sheng-upms-server/sheng-upms-server.iml" filepath="$PROJECT_DIR$/sheng-upms/sheng-upms-server/sheng-upms-server.iml" />
+    </modules>
+  </component>
+</project>
