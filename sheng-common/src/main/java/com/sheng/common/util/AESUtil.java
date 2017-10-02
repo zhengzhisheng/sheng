@@ -23,7 +23,7 @@ public class AESUtil {
 
     private static final String encodeRules = "zheng";
 
-    private static String AESEncode(String content){
+    public static String AESEncode(String content){
         try {
             //1.构造密钥生成器，指定为AES算法,不区分大小写
             KeyGenerator keygen = KeyGenerator.getInstance("AES");
